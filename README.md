@@ -1,5 +1,6 @@
-# 💫 About Me:
-👨‍💻 **Piyush Krishnadutt Yadav**
+
+<h1 align="center">⚡Piyush Krishnadutt Yadav⚡</h1>
+
 <br>📚 Third-Year IT Student #Engineering Student 
 <br>🚀 Passionate about Web Development, MERN Stack, and Python  
 💻 Turning caffeine into code, one project at a time ☕💡 
