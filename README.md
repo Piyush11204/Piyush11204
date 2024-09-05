@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 **Piyush Krishnadutt Yadav**  <br>📚 Third-Year IT Student @VCET, Vasai  <br>🚀 Passionate about Web Development, MERN Stack, and Python  <br>🔗 Building 'Tripvana' and 'EchoBeats'  <br>🎯 Seeking to contribute to open-source projects and collaborate with developers  <br>💡 Always learning, coding, and improving<br><br>*Let's build something great together!*<br>
+👨‍💻 **Piyush Krishnadutt Yadav**  <br>📚 Third-Year IT Student @ VCET, Vasai  <br>🚀 Passionate about Web Development, MERN Stack, and Python  <br>🔗 Building 'Tripvana' and 'EchoBeats'  <br>🎯 Seeking to contribute to open-source projects and collaborate with developers  <br>💡 Always learning, coding, and improving<br><br>*Let's build something great together!*<br>
 
 
 ## 🌐 Socials:
