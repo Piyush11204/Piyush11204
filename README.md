@@ -2,7 +2,7 @@
 <h1 align="center">⚡Piyush Krishnadutt Yadav⚡</h1>
 
 <br>📚 Third-Year IT Student at VCET 🏫
-<br>🚀 Passionate about Web Development, MERN Stack, and Python  
+<br>🚀 Passionate about Web Development, MERN Stack, and Next.js  
 💻 Turning caffeine into code, one project at a time ☕💡 
 <br>🔗 Building **`Tripvana`** and **`PageParadice`**  
 🎯 Seeking to contribute to open-source projects and collaborate with developers  <br>
