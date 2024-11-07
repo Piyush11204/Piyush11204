@@ -52,7 +52,7 @@
 <br>
 <br>
 <br>
-  <!-- <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA5MDk3NTMsIm5iZiI6MTczMDkwOTQ1MywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA2VDE2MTA1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3MjljODM3Yjg0MDc0YzRiMTMzYmJmZmJmMTc2NDE1NGI0Zjc0ZmQ1NGY0YzgzYTExNTFhYzM4ZTQ0YTMzZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mde0OBYG9QIlZgH5joBXVvDQcjaAUFX6iK7cnVAjDi4" alt="Coding GIF" width="300" /> -->
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Coding GIF" height='250' width="100%" style=" object-fit:fit; border-radius: 18px; "/>
 
 ## 🛠️ Tech Stack
 
