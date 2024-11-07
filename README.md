@@ -26,21 +26,11 @@
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
   <h1 style="font-size: 2.4em; margin-top: 10px;">I am a</h1>
+  <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🧑‍💻Full-Stack developer;⚡MERN Enthusiast;✨UI/UX+Designer;&size=30&color=00000" >
+  </a>
 </div>
 
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-50px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
 <div align="left">
 
 📚 Third-Year IT Student at VCET 🏫 <br>
