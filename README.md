@@ -26,7 +26,7 @@
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
   <h1 style="font-size: 2.4em; margin-top: 10px;">I am a</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🧑‍💻Full-Stack developer;⚡MERN Enthusiast;✨UI/UX+Designer;&size=30&color=00000" style="width: 100%; max-width: 800px; height: auto; animation: slideIn 1s ease-in-out;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🧑‍💻Full-Stack developer;⚡MERN Enthusiast;✨UI/UX+Designer;&size=30&color=00000" >
 </div>
 
 <style>
