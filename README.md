@@ -41,6 +41,7 @@
 <!-- <br>
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Coding GIF" height='250' width="100%" style=" object-fit:fit; border-radius: 18px; "/>
  -->
+ 
 ## 🛠️ Tech Stack
 
 ### Languages
