@@ -81,14 +81,19 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyush11204&theme=radical&show_icons=true&count_private=true" alt="Piyush11204's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush11204&theme=radical" alt="Piyush11204's GitHub Streak" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush11204&theme=radical&layout=compact" alt="Piyush11204's Top Languages" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Piyush11204&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Piyush11204's Top Contributed Repos" width="49%" />
 </div>
 
+
+<p align="center">
+    <!-- Profile Summary Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush11204&theme=tokyonight" alt="Profile Summary Card" />
+</p>
+
+<p align="center">
+    <!-- Trophy Stats -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Piyush11204&theme=tokyonight" alt="GitHub Trophies" />
+</p>
 ## 📜 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
