@@ -1,8 +1,11 @@
-<div style="display: flex; align-items: center; padding:8px; gap:9px">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" width="60" />
-  <h1 style="font-size:2.8em; margin-top:10px">Piyush Krishnadutt Yadav</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" width="60" />
-</div>
+<h1 align="center">⚡ Piyush Krishnadutt Yadav ⚡</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" width="90" />
+  <img src="https://i.pinimg.com/originals/47/15/c9/4715c9788b3f7cce7b045aed418e34bf.gif" height="110" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" width="90" />
+</p>
+
 
 <div align="center">
   <a href="https://github.com/Piyush11204" target="_blank">
@@ -35,9 +38,10 @@
 
 <br>
 <br>
-<br>
+<!-- <br>
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Coding GIF" height='250' width="100%" style=" object-fit:fit; border-radius: 18px; "/>
-
+ -->
+ 
 ## 🛠️ Tech Stack
 
 ### Languages
