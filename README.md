@@ -1,7 +1,6 @@
-<h1 align="center" style="font-family:Ethnocentric; font-weight: bold; color:rgb(0, 255, 247);">
-  💢 Piyush Krishnadutt Yadav
+<h1 align="center" style="font-family: Ethnocentric ; font-weight: bold; color:#FF5733;">
+  𝓟𝓲𝔂𝓾𝓼𝓱 𝓚𝓻𝓲𝓼𝓱𝓷𝓪𝓭𝓾𝓽𝓽 𝓨𝓪𝓭𝓪𝓿💢
 </h1>
-
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding GIF" width="90" />
