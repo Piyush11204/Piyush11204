@@ -1,6 +1,5 @@
-<h1 align="center" style="font-family:Ethnocentric; font-weight: bold; color:rgb(0, 255, 247);">
-  💢 Piyush Krishnadutt Yadav
-</h1>
+<h1 align="center" style="color: #FF5733;">𝓟𝓲𝔂𝓾𝓼𝓱 𝓚𝓻𝓲𝓼𝓱𝓷𝓪𝓭𝓾𝓽𝓽 𝓨𝓪𝓭𝓪𝓿 💢</h1>
+
 
 
 <!-- <p align="center">
