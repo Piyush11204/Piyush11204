@@ -27,7 +27,7 @@
 
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-  <h1 style="font-size: 2.4em; margin-top: 10px;">I am a</h1>
+  <!-- <h1 style="font-size: 2.4em; margin-top: 10px;">I am a</h1> -->
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;⚡MERN+%26+Next.js+Expert;✨System+Architecture+Designer;🚀Final+Year+Tech+Lead;🌐Cloud+Computing+Specialist;&size=30&center=true&width=600&height=50&color=FF5733" >
   </a>
