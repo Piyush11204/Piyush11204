@@ -118,11 +118,11 @@
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush11204&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
-### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush11204&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-
 ### 📊 Detailed Analytics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush11204&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Piyush11204&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 
 </div>
 
