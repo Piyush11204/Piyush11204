@@ -124,14 +124,6 @@
 ### 📊 Detailed Analytics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush11204&theme=tokyonight" alt="Profile Summary" width="100%"/>
 
-### ⚡ Quick Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush11204&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush11204&show_icons=true&theme=tokyonight&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" alt="Additional Stats" width="49%" />
-
-### 🎯 Productivity Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush11204&theme=tokyonight" alt="Productive Time" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush11204&theme=tokyonight" alt="Most Used Language" width="49%" />
-
 </div>
 
 
@@ -139,27 +131,15 @@
 
 <div align="center">
 
-### 🔭 What I'm Working On
-```javascript
-const currentProjects = {
-    🎓 finalYearProject: "AI-Powered Full-Stack Application",
-    🌐 webDevelopment: "MERN Stack + Next.js Enterprise Solutions",
-    🤖 machineLearning: "MLOps Pipeline & Model Deployment",
-    ☁️ cloudComputing: "AWS/Azure Infrastructure Automation",
-    🔗 blockchain: "Web3 DApps & Smart Contracts",
-    📱 mobileApp: "Cross-Platform Flutter Applications"
-};
-```
-
 ### 🌱 Currently Learning
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,mongodb,redis,nextjs,typescript,python,tensorflow,pytorch&theme=dark" alt="Learning Technologies"/>
-
-### 🎯 2025 Goals
-- 🏆 **Graduate with Honors** in Information Technology
-- 💼 **Secure Full-Time Role** at Top Tech Company
-- 🚀 **Launch Personal SaaS Product**
-- 🤝 **Contribute to Major Open Source Projects**
-- 📈 **Build Tech Community Presence**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,nextjs,typescript,python,nodejs,react,linux,git&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-pink?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-orange?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 </div>
 
@@ -175,33 +155,6 @@ const currentProjects = {
 
 <div align="center">
 
-### 📬 Reach Out to Me
-<a href="https://github.com/Piyush11204" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/piyush-yadav-23b8ba2a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/piyush.afk/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://portfolio-v1-student.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:piyushyadav@vcet.edu.in" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://twitter.com/piyush_codes" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-### 💻 Open for Opportunities
-```yaml
-Status: 🎓 Final Year Student | 🔍 Actively seeking Full-Time Opportunities
-Interests: [Full-Stack Development, AI/ML, DevOps, System Design]
-Location: Mumbai, India | Remote-Friendly
-Availability: Immediate (Post-Graduation May 2025)
-```
 
 ### ⚡ Fun Fact
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I+debug+code+faster+than+I+debug+my+life!;Coffee+%2B+Code+%3D+Perfect+Day!;Always+learning%2C+always+growing!;Building+the+future%2C+one+commit+at+a+time!&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=18">
