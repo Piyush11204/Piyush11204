@@ -51,96 +51,69 @@
  
 ## 🛠️ Tech Stack
 
-### 🚀 Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
+<table align="center">
+  <tr>
+    <th align="center"><b>Category</b></th>
+    <th align="center"><b>Technologies</b></th>
+    <th align="center"><b>Proficiency</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,next,ts,js,redux,tailwind,vite" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced-🔥-ff6b6b?style=flat-square&labelColor=2d3748" /><br/>
+      <img src="https://img.shields.io/badge/React%20|%20Next.js%20|%20JavaScript-Expert-success?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced-🔥-ff6b6b?style=flat-square&labelColor=2d3748" /><br/>
+      <img src="https://img.shields.io/badge/express.js%20|%20Python%20|%20Flask-Expert-success?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Moderate-⚡-4ecdc4?style=flat-square&labelColor=2d3748" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB%20|%20Firebase%20-Proficient-informational?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github,git,gcp,githubactions,git,vercel" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Moderate-⚡-4ecdc4?style=flat-square&labelColor=2d3748" /><br/>
+      <img src="https://img.shields.io/badge/Github%20|%20Render%20-Proficient-informational?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI/ML & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,postman," />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Medium-💡-ffd93d?style=flat-square&labelColor=2d3748" /><br/>
+      <img src="https://img.shields.io/badge/Postman%20|%20PyTorch%20|%20OpenCV-Expert-green?style=flat-square" />
+    </td>
+  </tr>
 
-### ⚡ Frameworks & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23040404.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
-</p>
-
-### 🛢️ Databases & Cloud Services  
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### 🛠️ DevOps & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
-  <img src="https://img.shields.io/badge/Cloudinary-%23F38020.svg?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-%23626CD9.svg?style=for-the-badge&logo=Stripe&logoColor=white"/>
-</p>
-
-### 🎨 Design & Creative Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
+</table>
 
 
 ## 📊 GitHub Analytics & Statistics
 
 <div align="center">
-  
-### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush11204&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Piyush11204's GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush11204&theme=tokyonight&layout=compact&hide_border=true&langs_count=10&card_width=400" alt="Piyush11204's Top Languages" width="49%" />
 
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush11204&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
