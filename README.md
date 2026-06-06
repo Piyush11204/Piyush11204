@@ -159,25 +159,6 @@ status:    Intern at Odoo
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Piyush11204">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyush11204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&ring_color=7C3AED&title_color=A855F7&icon_color=C084FC&border_color=4C1D95"/>
-</a>
-<a href="https://github.com/Piyush11204">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush11204&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&title_color=A855F7&border_color=4C1D95"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Piyush11204">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Piyush11204&theme=tokyonight&border_radius=12&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=C084FC&border=4C1D95" alt="GitHub Streak"/>
-</a>
-
-</div>
 
 <!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
 <div align="center">
@@ -197,20 +178,6 @@ status:    Intern at Odoo
 
 </div>
 
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-<div align="center">
-
-### 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush11204/Piyush11204/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush11204/Piyush11204/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush11204/Piyush11204/output/github-snake.svg" width="100%"/>
-</picture>
-
-> ⚙️ To enable the snake: go to your profile repo → Actions → "Generate Snake" workflow → enable it.
-
-</div>
 
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
