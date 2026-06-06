@@ -41,7 +41,7 @@
 ```yaml
 name:      Piyush Krishnadutt Yadav
 role:      Full-Stack Developer & Tech Lead
-college:   VCET — Final Year IT Student
+college:   VCET IT Student
 location:  Maharashtra, India 🇮🇳
 
 focus:
@@ -55,7 +55,7 @@ open_to:
   - Open-Source Collaboration
   - Hackathon Mentorship
 
-status:    ✅ Available for Opportunities
+status:    Intern at Odoo
 ```
 
 </td>
@@ -76,7 +76,7 @@ status:    ✅ Available for Opportunities
 <table border="0">
 <tr>
   <td align="center">
-    <img src="https://img.shields.io/badge/4%2B%20Years-Experience-7C3AED?style=for-the-badge&labelColor=1E1B4B"/>
+    <img src="https://img.shields.io/badge/2%2B%20Years-Experience-7C3AED?style=for-the-badge&labelColor=1E1B4B"/>
   </td>
   <td align="center">
     <img src="https://img.shields.io/badge/MERN%20%7C%20Next.js-Core%20Stack-A855F7?style=for-the-badge&labelColor=1E1B4B"/>
